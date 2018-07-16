@@ -3,7 +3,7 @@
 
 $array = array(1, 2, 3, 4);
 
-function arraySum($arr) {
+function arraySum(array $arr) {
 	return array_sum($arr);
 }
 
